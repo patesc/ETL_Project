@@ -1,0 +1,551 @@
+{
+  "data": {
+    "by_president": [
+      {
+        "number": 33,
+        "name": "Harry S. Truman",
+        "age": 88,
+        "party": "Democratic",
+        "term_start_epoch": -780174000,
+        "term_end_epoch": -534794400,
+        "date_born_epoch": -2702833200,
+        "date_died_epoch": 94197600,
+        "term_debt_increase_pct": 28.9
+      },
+      {
+        "number": 34,
+        "name": "Dwight D. Eisenhower",
+        "age": 78,
+        "party": "Republican",
+        "term_start_epoch": -534794400,
+        "term_end_epoch": -282333600,
+        "date_born_epoch": -2499793200,
+        "date_died_epoch": -24087600,
+        "term_debt_increase_pct": 10.5
+      },
+      {
+        "number": 35,
+        "name": "John F. Kennedy",
+        "age": 46,
+        "party": "Democratic",
+        "term_start_epoch": -282333600,
+        "term_end_epoch": -192823200,
+        "date_born_epoch": -1659726000,
+        "date_died_epoch": -192823200,
+        "term_debt_increase_pct": 6.8
+      },
+      {
+        "number": 36,
+        "name": "Lyndon B. Johnson",
+        "age": 64,
+        "party": "Democratic",
+        "term_start_epoch": -192823200,
+        "term_end_epoch": -29872800,
+        "date_born_epoch": -1935946800,
+        "date_died_epoch": 96530400,
+        "term_debt_increase_pct": 13.6
+      },
+      {
+        "number": 37,
+        "name": "Richard Nixon",
+        "age": 81,
+        "party": "Republican",
+        "term_start_epoch": -29872800,
+        "term_end_epoch": 145256400,
+        "date_born_epoch": -1798048800,
+        "date_died_epoch": 766990800,
+        "term_debt_increase_pct": 31.8
+      },
+      {
+        "number": 38,
+        "name": "Gerald Ford",
+        "age": 93,
+        "party": "Republican",
+        "term_start_epoch": 145256400,
+        "term_end_epoch": 222588000,
+        "date_born_epoch": -1781982000,
+        "date_died_epoch": 1167112800,
+        "term_debt_increase_pct": 35.4
+      },
+      {
+        "number": 39,
+        "name": "Jimmy Carter",
+        "age": 91,
+        "party": "Democratic",
+        "term_start_epoch": 222588000,
+        "term_end_epoch": 348818400,
+        "date_born_epoch": 1001912400,
+        "date_died_epoch": -33008580000,
+        "term_debt_increase_pct": 46.3
+      },
+      {
+        "number": 40,
+        "name": "Ronald Reagan",
+        "age": 93,
+        "party": "Republican",
+        "term_start_epoch": 348818400,
+        "term_end_epoch": 601279200,
+        "date_born_epoch": -1858788000,
+        "date_died_epoch": 1086411600,
+        "term_debt_increase_pct": 186.7
+      },
+      {
+        "number": 41,
+        "name": "George H. W. Bush",
+        "age": 91,
+        "party": "Republican",
+        "term_start_epoch": 601279200,
+        "term_end_epoch": 727509600,
+        "date_born_epoch": -1437591600,
+        "date_died_epoch": null,
+        "term_debt_increase_pct": 56.2
+      },
+      {
+        "number": 42,
+        "name": "Bill Clinton",
+        "age": 69,
+        "party": "Democratic",
+        "term_start_epoch": 727509600,
+        "term_end_epoch": 979970400,
+        "date_born_epoch": -737492400,
+        "date_died_epoch": null,
+        "term_debt_increase_pct": 39.6
+      },
+      {
+        "number": 43,
+        "name": "George W. Bush",
+        "age": 69,
+        "party": "Republican",
+        "term_start_epoch": 979970400,
+        "term_end_epoch": 1232431200,
+        "date_born_epoch": -741294000,
+        "date_died_epoch": null,
+        "term_debt_increase_pct": 76.7
+      },
+      {
+        "number": 44,
+        "name": "Barack Obama",
+        "age": 54,
+        "party": "Democratic",
+        "term_start_epoch": 1232431200,
+        "term_end_epoch": 1484892000,
+        "date_born_epoch": -265402800,
+        "date_died_epoch": null,
+        "term_debt_increase_pct": 87.8
+      }
+    ],
+    "by_year": [
+      {
+        "year": 1949,
+        "president": "Harry S. Truman",
+        "party": "Democratic",
+        "annual_debt_increase_pct": 0.2
+      },
+      {
+        "year": 1950,
+        "president": "Harry S. Truman",
+        "party": "Democratic",
+        "annual_debt_increase_pct": 1.8
+      },
+      {
+        "year": 1951,
+        "president": "Harry S. Truman",
+        "party": "Democratic",
+        "annual_debt_increase_pct": -0.8
+      },
+      {
+        "year": 1952,
+        "president": "Harry S. Truman",
+        "party": "Democratic",
+        "annual_debt_increase_pct": 1.5
+      },
+      {
+        "year": 1953,
+        "president": "Dwight D. Eisenhower",
+        "party": "Republican",
+        "annual_debt_increase_pct": 2.7
+      },
+      {
+        "year": 1954,
+        "president": "Dwight D. Eisenhower",
+        "party": "Republican",
+        "annual_debt_increase_pct": 2.0
+      },
+      {
+        "year": 1955,
+        "president": "Dwight D. Eisenhower",
+        "party": "Republican",
+        "annual_debt_increase_pct": 1.1
+      },
+      {
+        "year": 1956,
+        "president": "Dwight D. Eisenhower",
+        "party": "Republican",
+        "annual_debt_increase_pct": -0.6
+      },
+      {
+        "year": 1957,
+        "president": "Dwight D. Eisenhower",
+        "party": "Republican",
+        "annual_debt_increase_pct": -0.8
+      },
+      {
+        "year": 1958,
+        "president": "Dwight D. Eisenhower",
+        "party": "Republican",
+        "annual_debt_increase_pct": 2.1
+      },
+      {
+        "year": 1959,
+        "president": "Dwight D. Eisenhower",
+        "party": "Republican",
+        "annual_debt_increase_pct": 3.0
+      },
+      {
+        "year": 1960,
+        "president": "Dwight D. Eisenhower",
+        "party": "Republican",
+        "annual_debt_increase_pct": 0.6
+      },
+      {
+        "year": 1961,
+        "president": "John F. Kennedy",
+        "party": "Democratic",
+        "annual_debt_increase_pct": 0.9
+      },
+      {
+        "year": 1962,
+        "president": "John F. Kennedy",
+        "party": "Democratic",
+        "annual_debt_increase_pct": 3.2
+      },
+      {
+        "year": 1963,
+        "president": "John F. Kennedy",
+        "party": "Democratic",
+        "annual_debt_increase_pct": 2.6
+      },
+      {
+        "year": 1964,
+        "president": "Lyndon B. Johnson",
+        "party": "Democratic",
+        "annual_debt_increase_pct": 1.9
+      },
+      {
+        "year": 1965,
+        "president": "Lyndon B. Johnson",
+        "party": "Democratic",
+        "annual_debt_increase_pct": 1.8
+      },
+      {
+        "year": 1966,
+        "president": "Lyndon B. Johnson",
+        "party": "Democratic",
+        "annual_debt_increase_pct": 0.8
+      },
+      {
+        "year": 1967,
+        "president": "Lyndon B. Johnson",
+        "party": "Democratic",
+        "annual_debt_increase_pct": 2.0
+      },
+      {
+        "year": 1968,
+        "president": "Lyndon B. Johnson",
+        "party": "Democratic",
+        "annual_debt_increase_pct": 6.5
+      },
+      {
+        "year": 1969,
+        "president": "Richard Nixon",
+        "party": "Republican",
+        "annual_debt_increase_pct": 1.8
+      },
+      {
+        "year": 1970,
+        "president": "Richard Nixon",
+        "party": "Republican",
+        "annual_debt_increase_pct": 4.9
+      },
+      {
+        "year": 1971,
+        "president": "Richard Nixon",
+        "party": "Republican",
+        "annual_debt_increase_pct": 7.3
+      },
+      {
+        "year": 1972,
+        "president": "Richard Nixon",
+        "party": "Republican",
+        "annual_debt_increase_pct": 7.3
+      },
+      {
+        "year": 1973,
+        "president": "Richard Nixon",
+        "party": "Republican",
+        "annual_debt_increase_pct": 7.2
+      },
+      {
+        "year": 1974,
+        "president": "Gerald Ford",
+        "party": "Republican",
+        "annual_debt_increase_pct": 3.7
+      },
+      {
+        "year": 1975,
+        "president": "Gerald Ford",
+        "party": "Republican",
+        "annual_debt_increase_pct": 12.2
+      },
+      {
+        "year": 1976,
+        "president": "Gerald Ford",
+        "party": "Republican",
+        "annual_debt_increase_pct": 16.4
+      },
+      {
+        "year": 1977,
+        "president": "Jimmy Carter",
+        "party": "Democratic",
+        "annual_debt_increase_pct": 12.6
+      },
+      {
+        "year": 1978,
+        "president": "Jimmy Carter",
+        "party": "Democratic",
+        "annual_debt_increase_pct": 10.4
+      },
+      {
+        "year": 1979,
+        "president": "Jimmy Carter",
+        "party": "Democratic",
+        "annual_debt_increase_pct": 7.1
+      },
+      {
+        "year": 1980,
+        "president": "Jimmy Carter",
+        "party": "Democratic",
+        "annual_debt_increase_pct": 9.8
+      },
+      {
+        "year": 1981,
+        "president": "Ronald Reagan",
+        "party": "Republican",
+        "annual_debt_increase_pct": 9.9
+      },
+      {
+        "year": 1982,
+        "president": "Ronald Reagan",
+        "party": "Republican",
+        "annual_debt_increase_pct": 14.4
+      },
+      {
+        "year": 1983,
+        "president": "Ronald Reagan",
+        "party": "Republican",
+        "annual_debt_increase_pct": 20.6
+      },
+      {
+        "year": 1984,
+        "president": "Ronald Reagan",
+        "party": "Republican",
+        "annual_debt_increase_pct": 14.2
+      },
+      {
+        "year": 1985,
+        "president": "Ronald Reagan",
+        "party": "Republican",
+        "annual_debt_increase_pct": 16.0
+      },
+      {
+        "year": 1986,
+        "president": "Ronald Reagan",
+        "party": "Republican",
+        "annual_debt_increase_pct": 16.6
+      },
+      {
+        "year": 1987,
+        "president": "Ronald Reagan",
+        "party": "Republican",
+        "annual_debt_increase_pct": 10.6
+      },
+      {
+        "year": 1988,
+        "president": "Ronald Reagan",
+        "party": "Republican",
+        "annual_debt_increase_pct": 10.7
+      },
+      {
+        "year": 1989,
+        "president": "George H. W. Bush",
+        "party": "Republican",
+        "annual_debt_increase_pct": 9.8
+      },
+      {
+        "year": 1990,
+        "president": "George H. W. Bush",
+        "party": "Republican",
+        "annual_debt_increase_pct": 13.2
+      },
+      {
+        "year": 1991,
+        "president": "George H. W. Bush",
+        "party": "Republican",
+        "annual_debt_increase_pct": 13.4
+      },
+      {
+        "year": 1992,
+        "president": "George H. W. Bush",
+        "party": "Republican",
+        "annual_debt_increase_pct": 10.9
+      },
+      {
+        "year": 1993,
+        "president": "Bill Clinton",
+        "party": "Democratic",
+        "annual_debt_increase_pct": 8.5
+      },
+      {
+        "year": 1994,
+        "president": "Bill Clinton",
+        "party": "Democratic",
+        "annual_debt_increase_pct": 6.4
+      },
+      {
+        "year": 1995,
+        "president": "Bill Clinton",
+        "party": "Democratic",
+        "annual_debt_increase_pct": 6.0
+      },
+      {
+        "year": 1996,
+        "president": "Bill Clinton",
+        "party": "Democratic",
+        "annual_debt_increase_pct": 5.0
+      },
+      {
+        "year": 1997,
+        "president": "Bill Clinton",
+        "party": "Democratic",
+        "annual_debt_increase_pct": 3.6
+      },
+      {
+        "year": 1998,
+        "president": "Bill Clinton",
+        "party": "Democratic",
+        "annual_debt_increase_pct": 2.1
+      },
+      {
+        "year": 1999,
+        "president": "Bill Clinton",
+        "party": "Democratic",
+        "annual_debt_increase_pct": 2.4
+      },
+      {
+        "year": 2000,
+        "president": "Bill Clinton",
+        "party": "Democratic",
+        "annual_debt_increase_pct": 0.3
+      },
+      {
+        "year": 2001,
+        "president": "George W. Bush",
+        "party": "Republican",
+        "annual_debt_increase_pct": 2.3
+      },
+      {
+        "year": 2002,
+        "president": "George W. Bush",
+        "party": "Republican",
+        "annual_debt_increase_pct": 7.2
+      },
+      {
+        "year": 2003,
+        "president": "George W. Bush",
+        "party": "Republican",
+        "annual_debt_increase_pct": 8.9
+      },
+      {
+        "year": 2004,
+        "president": "George W. Bush",
+        "party": "Republican",
+        "annual_debt_increase_pct": 8.8
+      },
+      {
+        "year": 2005,
+        "president": "George W. Bush",
+        "party": "Republican",
+        "annual_debt_increase_pct": 7.5
+      },
+      {
+        "year": 2006,
+        "president": "George W. Bush",
+        "party": "Republican",
+        "annual_debt_increase_pct": 7.2
+      },
+      {
+        "year": 2007,
+        "president": "George W. Bush",
+        "party": "Republican",
+        "annual_debt_increase_pct": 5.9
+      },
+      {
+        "year": 2008,
+        "president": "George W. Bush",
+        "party": "Republican",
+        "annual_debt_increase_pct": 11.3
+      },
+      {
+        "year": 2009,
+        "president": "Barack Obama",
+        "party": "Democratic",
+        "annual_debt_increase_pct": 18.8
+      },
+      {
+        "year": 2010,
+        "president": "Barack Obama",
+        "party": "Democratic",
+        "annual_debt_increase_pct": 13.9
+      },
+      {
+        "year": 2011,
+        "president": "Barack Obama",
+        "party": "Democratic",
+        "annual_debt_increase_pct": 9.1
+      },
+      {
+        "year": 2012,
+        "president": "Barack Obama",
+        "party": "Democratic",
+        "annual_debt_increase_pct": 8.6
+      },
+      {
+        "year": 2013,
+        "president": "Barack Obama",
+        "party": "Democratic",
+        "annual_debt_increase_pct": 4.2
+      },
+      {
+        "year": 2014,
+        "president": "Barack Obama",
+        "party": "Democratic",
+        "annual_debt_increase_pct": 6.5
+      },
+      {
+        "year": 2015,
+        "president": "Barack Obama",
+        "party": "Democratic",
+        "annual_debt_increase_pct": 1.8
+      },
+      {
+        "year": 2016,
+        "president": "Barack Obama",
+        "party": "Democratic",
+        "annual_debt_increase_pct": 3.7
+      }
+    ]
+  },
+  "source": [
+    "https://www.whitehouse.gov/omb/budget/Historicals"
+  ]
+}
