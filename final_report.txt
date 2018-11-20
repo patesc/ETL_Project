@@ -1,0 +1,33 @@
+Final Technical report
+
+Team PTSD - Patricia, Tunde (moral support), Sean, David
+
+Our team chose to collect a variety of longitudinal data that that could be investigated in relation to presidential term. We searched for datasets that were organized by year, cleaned and merged them, and then grouped them by president.
+
+The data we selected consisted of:
+- President and national debt growth (% by year)
+- US GNP growth (% by year)
+- UFO sightings (count by year)
+- Cigarette consumption (average cigarettes per adult per year)
+
+These datasets came from different sources, and had different formats. All datasets were cleaned and merged in Pandas using Jupyter Notebooks. Below are the summaries for each dataset:
+
+Presidents and National Debt (Data World):
+- Started with a JSON file counting data on US presidents and the rate of debt increase during their respective terms, cleaned the data, transformed it into a data frame and then exported as a CSV.
+- Transformed the data frame into a format that allowed us to merge it with the other data frames.
+
+GNP Groth (Bloomberg)
+- Accessed a dataset that contained only year and % growth in GNP (as a string wtih a % sign)
+- Cleaned GNP growth by removing final character and casting as a float in Pandas
+
+Cigarette Consumption (Our World in Data):
+
+Our team pulled data in the form of a CSV that documented the average number of cigarettes purchased per adult per day. This data was organized by country. Team took the ciggy cig cig data and cleaned it up by showing only the daily average of cigarettes purchased in the United States. We then took this data and merged it with data that showed the presidents by each year.  From here we joined the data with the rest of our data and uploaded the conjoined data to a SQL data base.
+
+UFO Sightings (Kaggle):
+Cleaned the UFO csv data and transformed it into a data frame that retains only the year from the date-time column, and formatted the data frame to be able to merge this with the other data frames.
+
+
+All datasets were then combined into a single dataframe using Pandas in Jupyter Notebooks.
+
+Finally, we linked and stored the final dataframe to a local SQL database.
