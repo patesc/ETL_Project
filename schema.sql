@@ -23,6 +23,10 @@ daily_cig_sale_per_adult INT
 
 select * from pres_data;
 
+select * from pres_agg;
+
 show tables;
 
-drop table press_data
+drop table pres_data
+
+
